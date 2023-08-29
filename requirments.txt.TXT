@@ -1,23 +1,5 @@
-
-1. In R 
-Before executing the code written in R, make sure you load the following packages :
-  library(ggplot2)
-library(scales)
-library(lubridate)
-library(geosphere)
-library(caret)
-library(Metrics)
-library(rpart)
-library(rpart.plot)
-library(randomForest)
-library(dummies)
-
-NOTE: If any error is produced while loading packages then try installing the packages using a line of code =>  install.packages(package_name)  
-
-
-2. In python
 Before executing the code written in python ,make sure you import the below packages :
-	#import os
+#import os
 #import numpy as np
 #import pandas as pd
 #import matplotlib.pyplot as plt
